@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="console/console.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="console/Operations.cs">
+    <Files>
+      <File FileName="console/Operations.cs" Line="18" Column="14" />
+      <File FileName="console/Program.cs" Line="87" Column="15" />
+      <File FileName="console/MainClass.cs" Line="1" Column="1" />
+      <File FileName="console/BaseProgram.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
